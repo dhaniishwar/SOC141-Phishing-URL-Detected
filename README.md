@@ -12,7 +12,7 @@
 
 ---
 
-<h4 align =center> Walkthrough </h4>
+<h3 align =center> Walkthrough </h3>
 
 ***Alert Review:***
 
@@ -183,7 +183,7 @@
 <br>
 
 ---
-***Summary:***
+<h3 align =center> Summary </h3>
 
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; This alert was a confirmed True Positive phishing incident. User ellie on EmilyComp (172.16.17.49) clicked a malicious link that the firewall allowed through, successfully connecting her machine to a credential-harvesting site at mogagrocol.ru (91.189.114.8). VirusTotal confirmed the URL as malicious with 14/92 vendor detections. The host was contained, IOCs were documented, and the case was closed as a True Positive.
